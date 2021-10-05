@@ -4,7 +4,12 @@
 - 💞️ I’m looking to collaborate on developing front end web application
 - 📫 How to reach me :  
   linkedIn: https://www.linkedin.com/in/wanglen-soram-832636140/
-  email : soramwang@gmail.com
+  
+  email : soramwang@gmail.com 
+    
+  ph.no: 7641908736
+  
+  
    
 
 

@@ -8,6 +8,8 @@
   email : soramwang@gmail.com 
     
   ph.no: 8217833560
+
+  [![Soram Wanglen's GitHub stats]](https://github.com/soram123/github-readme-stats)
   
   
    

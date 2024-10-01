@@ -9,8 +9,7 @@
     
   ph.no: 8217833560
 
-  [![Soram Wanglen's GitHub stats]](https://github.com/soram123/github-readme-stats)
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soram123)](https://github.com/anuraghazra/github-readme-stats)
   
    
 

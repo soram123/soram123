@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soram Wanglen
-- 👀 I’m interested in Web development(Full Stack).
+- 👀 I’m interested in AI powered Web development(Full Stack).
 - 🌱 Frontend:Reactjs,Redux,Typescript; Backend: nodejs , expressjs and mongodb.
 - 💞️ I’m looking to collaborate on developing web application.
 - 📫 How to reach me :  

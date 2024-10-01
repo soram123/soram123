@@ -9,6 +9,8 @@
     
   ph.no: 8217833560
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soram123)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soram123&layout=compact)
 
 

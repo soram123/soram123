@@ -9,9 +9,9 @@
     
   ph.no: 8217833560
 
-<img alt = "my stats" align ="left" height="100%" width = "50%" src = "https://github-readme-stats.vercel.app/api?username=soram123&show_icons=true" />
+<img alt = "my stats" align ="left"  width = "47%" src = "https://github-readme-stats.vercel.app/api?username=soram123&show_icons=true" />
 
-<img alt = "most used language" align= "left" width= "50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=soram123&layout=compact" />
+<img alt = "most used language" align= "left" width= "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=soram123&layout=compact" />
 
 
   

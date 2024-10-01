@@ -9,7 +9,7 @@
     
   ph.no: 8217833560
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soram123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soram123&layout=compact)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
   
    
 

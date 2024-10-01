@@ -9,7 +9,7 @@
     
   ph.no: 8217833560
 
-<img alt = "my stats" src = "https://github-readme-stats.vercel.app/api?username=soram123" />
+<img alt = "my stats" align ="left" width = "40" src = "https://github-readme-stats.vercel.app/api?username=soram123" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soram123&layout=compact)
 

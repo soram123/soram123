@@ -5,7 +5,7 @@
 - 📫 How to reach me :  
   linkedIn: https://www.linkedin.com/in/wanglen-soram-832636140/
   
-  email : soramwang@gmail.com 
+  email : wanglensoram8@gmail.com 
     
   ph.no: 8217833560
 

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soram Wanglen
-- 👀 I’m interested in AI powered Web development(Full Stack).
+- 👀 I’m interested in AI powered Web development(Full Stack) and DevOps.
 - 🌱 Frontend:Reactjs,Redux,Typescript; Backend: nodejs , expressjs and mongodb.
 - 💞️ I’m looking to collaborate on deploying web application using docker | K8 | jenkins | ansible | terraform etc.
 - 📫 How to reach me :  
